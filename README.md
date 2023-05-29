@@ -1,4 +1,7 @@
 # Inochi2D Example Models
+## Note
+This repository contains Git LFS references for the archives we generate, do **not** download the repository.
+You can download the example models on the same page you downloaded Inochi Creator and Inochi Session.
 
 ## Aka
 ![aka](https://user-images.githubusercontent.com/7032834/176876793-cf354904-ab66-4676-8c00-55067436cf96.png)
